@@ -13,6 +13,7 @@ public class Solution {
         for(int i=0; i<answer.length; i++) {
             answer[i] = tempList.get(i).intValue();
         }
+        //정답 반환
         return answer;
     }
 }
